@@ -1,0 +1,48 @@
+{
+  "title": "多语言文档",
+  "description": "支持多语言的 GitBook 文档",
+  "author": "kalman03",
+  "language": "en",
+  "plugins": [
+    "language-picker",
+    "theme-xinbeitime"
+  ],
+  "pluginsConfig": {
+    "language-picker": {
+      "grid-columns": 2
+    },
+    "theme-xinbeitime": {
+      "search-placeholder": "Keywords",
+      "logo": "./logo.png",
+      "favicon": "./logo.png",
+      "copyright": "Copyright &copy xaisite.com 2024-2025",
+      "modify_label": "Last Update At：",
+      "modify_format": "YYYY-MM-DD HH:mm",
+      "languages": {
+        "zh": "中文",
+        "en": "English"
+      }
+    }
+  },
+  "variables": {
+    "xinbeitime": {
+      "nav": [
+        {
+          "url": "https://xaisite.com",
+          "target": "_blank",
+          "name": "首页"
+        },
+        {
+          "url": "https://xaisite.com?#pricing",
+          "target": "_blank",
+          "name": "价格"
+        },
+        {
+          "url": "https://doc.xaisite.com",
+          "target": "",
+          "name": "帮助文档"
+        }
+      ]
+    }
+  }
+}
