@@ -1,12 +1,12 @@
-# xaisite是什么？
+# 1、xaisite是什么？
 
 xaisite（简称XAI） 是一个面向全球、基于AI智能体变现的SaaS平台，任何人可以在这里轻松创建、托管AI应用，只需要简单几分钟即可为您的 AI 创意构建一个个性化的盈利网站。
 
-# xaisite平台的工作原理？
+# 2、xaisite平台的工作原理？
 
 xaisite全面打通了**[扣子](https://www.coze.cn/)、[Coze](https://www.coze.com/)、[Dify.AI](https://dify.ai/)**以及基于**提示词+LLM**的AI应用构建方式，当您在这些平台编排好了智能体、工作流等，也就意味着您在xaisite上可以快速搭建基于这些智能体、工作流的AI商业化应用，`XAI`帮您提供了收款体系、用户体系以及AI能力的全面对接。
 
-# xaisite平台强大主要体现在？
+# 3、xaisite平台强大主要体现在？
 
 1. **无缝对接扣子/Coze/Dify**：`XAI`平台支持快速导入Coze等AI智能体，构建非常简单；
 2. **不局限于智能体**：一个优秀的Prompt在LLM的加持下，也能发挥巨大的能力。`XAI`还支持基于Prompt+LLM的构建方式；
